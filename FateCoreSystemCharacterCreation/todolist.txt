@@ -1,0 +1,41 @@
+This is the todo list for the application
+
+For reference of the character creation sheet go to:
+http://www.evilhat.com/home/wp-content/uploads/2013/04/Fate-Core-Character-Sheet.pdf
+
+For reference of the rules and regulations of character creation go to:
+
+http://www.fate-srd.com/fate-core/quick-character-creation
+
+For reference to the creation of a executable jar go to:
+https://www.cs.unc.edu/~tpeck/jar.html
+
+Things that need to be done:
+1) Create the Objects for the program
+	This includes but isn't limited to:
+		1) Character
+		2) Player
+2) Create the utilities for the program
+	This includes but isn't limited to:
+		1) FileUtil
+		2) ValidationCheckUtil
+3) Finish the driver class FateCoreCharacterCreation
+================================================================================
+
+1) Create the Objects for the program 
+	1) Character.java
+		a) Getters and Setters
+		b) DVC and EVC
+		c) equalsTo and compareTo
+		d) toString
+	2) Player (not sure if I'll implement this or not)
+	3) RandomPlayer (This will be delved into later)
+2) Create the utilities for the program
+	1) FileUtil
+		a) readFile
+		b) writeFile
+		c) deleteFile
+		d) editFile
+		(will create more methods if needed)
+	2) ValidationCheckUtil
+		This one is going to be tricky to develop but the focus should be in validating the users input into the program to make sure it doesn't break the program.  
