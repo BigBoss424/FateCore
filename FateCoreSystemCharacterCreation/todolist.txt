@@ -30,6 +30,15 @@ Things that need to be done:
 		d) toString
 	2) Player (not sure if I'll implement this or not)
 	3) RandomPlayer (This will be delved into later)
+	4) Create the following child classes for the character class
+		1) ID
+		2) Aspects
+		3) Will
+		4) Skills
+		5) Extras
+		6) Physique
+		7) Stunts
+		8) Consequences
 2) Create the utilities for the program
 	1) FileUtil
 		a) readFile
