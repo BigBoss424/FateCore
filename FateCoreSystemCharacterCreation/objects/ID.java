@@ -1,4 +1,5 @@
 //This is the ID class which will contain the name and description of the Character class.
+//Created by Aaron Jones
 
 public class ID
 {
